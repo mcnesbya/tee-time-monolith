@@ -10,7 +10,7 @@
 # Exit on error, undefined variable, or failure in a pipeline.
 set -euo pipefail
 
-REPO_URL="https://github.com/cs390f26/tee-time-monolith.git"
+REPO_URL="https://github.com/mcnesbya/tee-time-monolith.git"
 
 APP_DIR=/home/ec2-user/tee-time-monolith
 
